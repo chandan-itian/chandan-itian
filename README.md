@@ -7,7 +7,7 @@
 ### Full-Stack Developer · Thoughtful interfaces. Practical software.
 
 Building web applications that make everyday tasks simpler.<br />
-Based in Bihar, India · Working with React, TypeScript and the modern web.
+Based in India · Working with React, TypeScript and the modern web.
 
 [Explore my work](#selected-work) · [Technology](#technology) · [Engineering approach](#engineering-approach)
 
